@@ -23,8 +23,7 @@ Google Trends is a free and easy-to-use dataset provided by Google (Google LLC. 
 ## Resources
 1. Matlab (algorithm development)
 2. Python (libraries: Matplotlib, seaborn, pandas, sklearn | produce results)
-3. Tableau (visualization)
-4. Lambda Server (Storage and computation)
+3. Lambda Server (Storage and computation)
 
 ## Results summary
 
