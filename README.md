@@ -1,4 +1,4 @@
-# Non-Negative Discriminative Data Analytics
+# Non-negative Discriminative Data Analytics
 We proposed a novel discriminative analysis method called DNA which can extract discriminative information from a dataset relative to another one. We published our results and findings on unique information extraction between two datasets in KDD workshop in Aug-2021.
 
 ## Key findings:
