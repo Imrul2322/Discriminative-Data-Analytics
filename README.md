@@ -25,6 +25,7 @@ Google Trends is a free and easy-to-use dataset provided by Google (Google LLC. 
 
 ## Results summary
 
+![alt text](https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/blob/main/assets/symptoms.png)
 
 
 ## Publications
