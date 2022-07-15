@@ -15,7 +15,7 @@ We proposed a novel discriminative analysis method called DNA which can extract 
 * <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics#results-summary">Results summary</a>
 * <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics#contribution">Contribution</a>
 * <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics#publications">Publications</a>
-* * <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics#repository-structure">Repository structure</a>
+* <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics#repository-structure">Repository structure</a>
 
 
 ## Key findings
