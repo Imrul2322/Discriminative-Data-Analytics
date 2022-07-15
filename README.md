@@ -74,3 +74,37 @@ Details of these results can be found <a href="https://github.com/Imrul2322/NonN
 
 ## Publications
 1. https://scholarworks.utrgv.edu/ece_fac/24/ or https://www.cs.ucr.edu/~epapalex/papers/epidamik_kdd21.pdf
+
+## Repository Structure
+'''│   Discrminative_Data_Analytics results.ipynb
+│   README.md
+│
+├───assets
+│       classification accuracy.png
+│       cPCA 2020.png
+│       DNA 2020.png
+│       NNMF PCA 2020.png
+│       symptoms.png
+│       top symptoms table.png
+│
+└───Tensor dPCA
+    │   chose_days.m
+    │   Contrastive PCA.m
+    │   covid2019us.mat
+    │   covid2020us.mat
+    │   discriminative PCA.m
+    │   DNA.m
+    │   dpca_covid.m
+    │   Symptonnames.xlsx
+    │   Workshop figure 1.m
+    │   Workshop figure 2.m
+    │   Workshop figure 3.m
+    │
+    └───KDDWorkshopResults
+            cpca.fig
+            cpca.png
+            desktop.ini
+            dna.fig
+            dna.png
+            nnmfpca.fig
+            nnmfpca.png
