@@ -2,7 +2,13 @@
 We proposed a novel discriminative analysis method called DNA which can extract discriminative information from a dataset relative to another one. We published our results and findings on unique information extraction between two datasets in KDD workshop in Aug-2021.
 
 ## Table of contents
-<a href="https://towardsdatascience.com/deploying-a-python-web-app-on-aws-57ed772b2319">balchal</a>
+* <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/edit/main/README.md#key-findings">Key findings</a>
+* <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/edit/main/README.md#problem-statement">Problem statement</a>
+* <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/edit/main/README.md#dataset">Dataset</a>
+* <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/edit/main/README.md#methodologies">Methodologies</a>
+* <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/edit/main/README.md#resources">Resources</a>
+* <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/edit/main/README.md#results-summary">Results summary</a>
+* <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/edit/main/README.md#publications">Publications</a>
 
 ## Key findings
 Proposed algorithm can distinguish symtoms unique to COVID-19 (e.g. Shortness of breath, loss of taste) from symptoms shared by COVID-19 and Flu (e.g. Fever, Cough). Analyzing data from successive years using the algorithm can be helpful in making predictions about potential pandemics.
