@@ -7,14 +7,14 @@ We proposed a novel discriminative analysis method called DNA which can extract 
 3. Dr. Papalexakis (UCR)
 4. Dr. Chen (UCR)
 ## Table of contents
-* <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/edit/main/README.md#key-findings">Key findings</a>
-* <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/edit/main/README.md#problem-statement">Problem statement</a>
-* <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/edit/main/README.md#dataset">Dataset</a>
-* <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/edit/main/README.md#methodologies">Methodologies</a>
-* <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/edit/main/README.md#resources">Resources</a>
-* <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/edit/main/README.md#results-summary">Results summary</a>
-* <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/edit/main/README.md#contribution">Contribution</a>
-* <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/edit/main/README.md#publications">Publications</a>
+* <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/README.md#key-findings">Key findings</a>
+* <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/README.md#problem-statement">Problem statement</a>
+* <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/README.md#dataset">Dataset</a>
+* <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/README.md#methodologies">Methodologies</a>
+* <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/README.md#resources">Resources</a>
+* <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/README.md#results-summary">Results summary</a>
+* <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/README.md#contribution">Contribution</a>
+* <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/README.md#publications">Publications</a>
 
 
 ## Key findings
