@@ -1,7 +1,10 @@
 # Non-negative Discriminative Data Analytics
 We proposed a novel discriminative analysis method called DNA which can extract discriminative information from a dataset relative to another one. We published our results and findings on unique information extraction between two datasets in KDD workshop in Aug-2021.
 
-## Key findings:
+## Table of contents
+<a href="https://towardsdatascience.com/deploying-a-python-web-app-on-aws-57ed772b2319"></a>
+
+## Key findings
 Proposed algorithm can distinguish symtoms unique to COVID-19 (e.g. Shortness of breath, loss of taste) from symptoms shared by COVID-19 and Flu (e.g. Fever, Cough). Analyzing data from successive years using the algorithm can be helpful in making predictions about potential pandemics.
 
 ## Problem Statement
