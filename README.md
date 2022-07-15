@@ -13,7 +13,9 @@ We proposed a novel discriminative analysis method called DNA which can extract 
 * <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/edit/main/README.md#methodologies">Methodologies</a>
 * <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/edit/main/README.md#resources">Resources</a>
 * <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/edit/main/README.md#results-summary">Results summary</a>
+* <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/edit/main/README.md#contribution">Contribution</a>
 * <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/edit/main/README.md#publications">Publications</a>
+
 
 ## Key findings
 Proposed algorithm can distinguish symtoms unique to COVID-19 (e.g. Shortness of breath, loss of taste) from symptoms shared by COVID-19 and Flu (e.g. Fever, Cough). Analyzing data from successive years using the algorithm can be helpful in making predictions about potential pandemics.
@@ -62,5 +64,13 @@ Figure 4: Symptoms coefficients using cPCA on 2020 data as target with alpha = 0
 Table 1: Top-k symptom frequencies after 100 Monte Carlo experiments for different models
 
 Details of these results can be found <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/blob/main/Discrminative_Data_Analytics%20results.ipynb">here</a>
+
+## Contribution
+
+* Exploratory data analysis (90%)
+* Data cleaning (90%) 
+* Algorithm development (50%)
+* result generation (70%)
+
 ## Publications
 1. https://scholarworks.utrgv.edu/ece_fac/24/ or https://www.cs.ucr.edu/~epapalex/papers/epidamik_kdd21.pdf
