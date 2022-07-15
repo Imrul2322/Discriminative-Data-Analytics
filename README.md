@@ -15,6 +15,7 @@ We proposed a novel discriminative analysis method called DNA which can extract 
 * <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics#results-summary">Results summary</a>
 * <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics#contribution">Contribution</a>
 * <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics#publications">Publications</a>
+* * <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics#repository-structure">Repository structure</a>
 
 
 ## Key findings
@@ -76,7 +77,8 @@ Details of these results can be found <a href="https://github.com/Imrul2322/NonN
 1. https://scholarworks.utrgv.edu/ece_fac/24/ or https://www.cs.ucr.edu/~epapalex/papers/epidamik_kdd21.pdf
 
 ## Repository Structure
-'''│   Discrminative_Data_Analytics results.ipynb
+```bash
+│   Discrminative_Data_Analytics results.ipynb
 │   README.md
 │
 ├───assets
@@ -108,3 +110,4 @@ Details of these results can be found <a href="https://github.com/Imrul2322/NonN
             dna.png
             nnmfpca.fig
             nnmfpca.png
+```
