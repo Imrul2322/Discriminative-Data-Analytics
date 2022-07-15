@@ -1,6 +1,11 @@
 # Non-negative Discriminative Data Analytics
 We proposed a novel discriminative analysis method called DNA which can extract discriminative information from a dataset relative to another one. We published our results and findings on unique information extraction between two datasets in KDD workshop in Aug-2021.
 
+## Authors
+1. Md Imrul Kaish (UTRGV)
+2. Md Jakir Hossain (UTRGV)
+3. Dr. Papalexakis (UCR)
+4. Dr. Chen (UCR)
 ## Table of contents
 * <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/edit/main/README.md#key-findings">Key findings</a>
 * <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/edit/main/README.md#problem-statement">Problem statement</a>
