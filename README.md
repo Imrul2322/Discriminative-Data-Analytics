@@ -56,6 +56,6 @@ Figure 4: Symptoms coefficients using cPCA on 2020 data as target with alpha = 0
 
 Table 1: Top-k symptom frequencies after 100 Monte Carlo experiments for different models
 
-
+Details of these results can be found <a href="https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/blob/main/Discrminative_Data_Analytics%20results.ipynb">here</a>
 ## Publications
 1. https://scholarworks.utrgv.edu/ece_fac/24/ or https://www.cs.ucr.edu/~epapalex/papers/epidamik_kdd21.pdf
